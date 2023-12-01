@@ -14,7 +14,7 @@
   </div>
   <div align="center">
     <h1> 
-      <i> Participantes do Projeto</i>
+      <i> Participante do Projeto</i>
     </h1>
     <h3>Mateus Alves de Freitas</h3>
   </div>
