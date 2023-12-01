@@ -19,14 +19,13 @@
     <h3>Mateus Alves de Freitas</h3>
   </div>
 
-
-  <!-- Adicione as imagens de filmes aqui -->
+  <!-- imagens de filmes aqui -->
   <div align="center">
     <h1> 
       <i> Imagens de Filmes</i>
     </h1>
-    <img width="300" alt="filme1" src="https://github.com/mateusalvesf/projeto-filmes/image/filme1.png">
-    <img width="300" alt="filme2" src="https://github.com/mateusalvesf/projeto-filmes/image/filme2.png">
-    <img width="300" alt="filme3" src="https://github.com/mateusalvesf/projeto-filmes/image/filme3.png">
+    <img width="300" alt="filme1" src="https://github.com/mateusalvesf/projeto-filmes/image/filme1.jpg">
+    <img width="300" alt="filme2" src="https://github.com/mateusalvesf/projeto-filmes/image/filme2.jpg">
+    <img width="300" alt="filme3" src="https://github.com/mateusalvesf/projeto-filmes/image/filme3.jpg">
   </div>
 </div>
