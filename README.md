@@ -25,7 +25,6 @@
       <i> Imagens de Filmes</i>
     </h1>
     <img width="300" alt="filme1" src="https://github.com/mateusalvesf/projeto-filmes/blob/main/image/filme1.jpg">
-    <img width="300" alt="filme2" src="https://github.com/mateusalvesf/projeto-filmes/blob/main/image/filmes2.png">
     <img width="300" alt="filme3" src="https://github.com/mateusalvesf/projeto-filmes/blob/main/image/filmes3.png">
   </div>
 </div>
